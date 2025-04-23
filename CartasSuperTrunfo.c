@@ -59,7 +59,7 @@ float Area, pib;
 
 printf("Carta 2:\n");    
 
-printf("Digite o Estado\n");
+printf("Digite o Estado.\n");
 scanf("%s", &estado);
 
 printf("Digite o codigo da carta.\n");
