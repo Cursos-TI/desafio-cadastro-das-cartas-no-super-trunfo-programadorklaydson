@@ -80,7 +80,7 @@ scanf("%d", &Pontosturisticos);
 
 printf("\n");
 
-//resultado do cadastro das duas cartas:
+//resultado do cadastro da carta 1:
 
 printf("Carta 1:\n");
 printf("Estado: %c\n", Estado);
@@ -92,6 +92,8 @@ printf("PIB: %f\n", PIB);
 printf("Pontos turisticos: %d\n", pontosturisticos);
 
 printf("\n");
+
+//resultado do cadastro da carta 2:
 
 printf("Carta 2:\n");
 printf("Estado: %c\n", estado);
