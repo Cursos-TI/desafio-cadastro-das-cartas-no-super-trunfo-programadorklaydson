@@ -49,6 +49,8 @@ scanf("%f", &PIB);
 printf("Digite a quantidade de pontos turisticos.\n");
 scanf("%d", &pontosturisticos);
 
+printf("\n");
+
 // cadastramento da carta 2:
 
 char estado, Codigodacarta[15], Nome[15];
